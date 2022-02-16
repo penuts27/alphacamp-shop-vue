@@ -1,4 +1,4 @@
-# hello-world
+# alphacamp shop vue
 
 ## Project setup
 ```
